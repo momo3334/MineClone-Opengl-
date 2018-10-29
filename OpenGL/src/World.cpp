@@ -9,7 +9,7 @@ World::~World()
 {
 }
 
-void World::CreateWorld()
+std::vector<glm::vec4> World::CreateWorld()
 {
 	m_Blocks.reserve(sizeof(3 * (m_Width * m_Height * m_Lenght + 1)));
 	for (int x = 0; x < m_Width; x++)
@@ -22,11 +22,12 @@ void World::CreateWorld()
 			}
 		}
 	}
+	return m_Blocks;
 }
 
 void World::GenerateChunk()
 {
-	ChunkMeshBuilder chunkMesh(m_Blocks);
+	//ChunkMeshBuilder chunkMesh(m_Blocks);
 }
 
 

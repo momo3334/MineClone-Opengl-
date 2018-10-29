@@ -3,10 +3,12 @@
 
 class ChunkMeshBuilder {
 public:	
-	ChunkMeshBuilder(std::vector<glm::vec4> world);
+	ChunkMeshBuilder(std::vector<glm::vec4> world, Shader & shader, Texture &texture);
 	~ChunkMeshBuilder();
 
-	void addFace(int face);
+	Mesh* BuildChunk();
+
+	void addFace(int face, int posX, int posY, int posZ);
 protected:
 private:
 	
@@ -19,4 +21,6 @@ private:
 
 	IndexedModel m_Cube = OBJModel("res/Models/Block.obj").ToIndexedModel();
 
+	Shader & m_Shader;
+	Texture &m_Texture;
 };

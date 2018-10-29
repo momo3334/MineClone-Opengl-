@@ -8,7 +8,7 @@ public:
 	World(int width, int length, int height);
 	~World();
 
-	void CreateWorld();
+	std::vector<glm::vec4> CreateWorld();
 
 
 	void GenerateChunk();

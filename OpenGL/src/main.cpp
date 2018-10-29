@@ -21,7 +21,6 @@
 #include "Mesh.h"
 #include "Input.h"
 
-#include "World.h"
 
 #include "glm/glm.hpp"
 #include "glm/gtc/matrix_transform.hpp"
@@ -89,8 +88,8 @@ int main(void)
 		GLCall(glEnable(GL_BLEND));
 		GLCall(glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA));
 
-		GLCall(glEnable(GL_CULL_FACE));
-		GLCall(glCullFace(GL_BACK));
+		//GLCall(glEnable(GL_CULL_FACE));
+		//GLCall(glCullFace(GL_BACK));
 
 		GLCall(glEnable(GL_DEPTH_TEST));
 

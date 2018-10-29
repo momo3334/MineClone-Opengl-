@@ -7,6 +7,8 @@
 #include "Shader.h"
 #include "Mesh.h"
 #include "Transform.h"
+#include "World.h"
+
 
 
 #define ASSERT(x) if (!(x)) __debugbreak();

@@ -1,0 +1,89 @@
+2018-10-19 17:54:48: Turning Off Copy Attributes, as one of file systems does not support it
+2018-10-19 17:54:48: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2018-10-19 17:54:49: -- Analysis Started by User Command
+2018-10-19 17:54:49: L: State file does not exist: E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/_gsdata_/_file_state_v4._gs
+2018-10-19 17:54:49: R: State file does not exist: https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/_gsdata_/_file_state_v4._gs
+2018-10-19 17:54:50: Changes: 603, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 604
+2018-10-19 17:54:50: Left to Right: Copy File: 603 
+2018-10-19 17:54:50: -- Analysis Complete. Time 00:00:03, Speed: 201 files/s
+2018-10-19 17:54:50: 
+2018-10-19 17:55:31: == Sync Started by User Command
+2018-10-19 17:55:32: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs'
+2018-10-19 17:55:32: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL'
+2018-10-19 17:55:33: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15'
+2018-10-19 17:55:33: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch'
+2018-10-19 17:55:33: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH'
+2018-10-19 17:55:34: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/10fa6e81aea9cb32'
+2018-10-19 17:55:34: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/40921f2d6558ddf0'
+2018-10-19 17:55:35: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/521676ba73c965ea'
+2018-10-19 17:55:35: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/545bcc041dea24f'
+2018-10-19 17:55:35: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/5bf40f5b95c889eb'
+2018-10-19 17:55:35: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/5e2d58e1ffb672f2'
+2018-10-19 17:55:35: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/6138ca670780df5d'
+2018-10-19 17:55:36: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/61b4db626bc608cd'
+2018-10-19 17:55:36: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/649696794aeddaf7'
+2018-10-19 17:55:36: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/711e0a734857a268'
+2018-10-19 17:55:36: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/8e9b119e692e367d'
+2018-10-19 17:55:36: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/9604aa43e47996d9'
+2018-10-19 17:55:36: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/a3a4adeb921a1ffb'
+2018-10-19 17:55:37: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/a95273f3764cce58'
+2018-10-19 17:55:37: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/de3db305634d1dbf'
+2018-10-19 17:55:37: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/e8214be882c566e4'
+2018-10-19 17:55:37: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Debug'
+2018-10-19 17:55:38: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies'
+2018-10-19 17:55:38: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW'
+2018-10-19 17:55:38: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/doc'
+2018-10-19 17:55:38: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/include'
+2018-10-19 17:55:38: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/include/GL'
+2018-10-19 17:55:39: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/lib'
+2018-10-19 17:55:39: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/lib/Release'
+2018-10-19 17:55:39: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/lib/Release/Win32'
+2018-10-19 17:55:39: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLEW/lib/Release/x64'
+2018-10-19 17:55:39: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLFW'
+2018-10-19 17:55:39: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLFW/include'
+2018-10-19 17:55:40: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLFW/include/GLFW'
+2018-10-19 17:55:40: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/Dependencies/GLFW/lib-vc2015'
+2018-10-19 17:55:40: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL'
+2018-10-19 17:55:40: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/Debug'
+2018-10-19 17:55:41: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/Debug/OpenGL.tlog'
+2018-10-19 17:55:41: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/res'
+2018-10-19 17:55:41: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/res/Models'
+2018-10-19 17:55:41: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/res/Shaders'
+2018-10-19 17:55:41: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/res/textures'
+2018-10-19 17:55:42: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src'
+2018-10-19 17:55:42: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/tests'
+2018-10-19 17:55:42: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor'
+2018-10-19 17:55:42: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/glm'
+2018-10-19 17:55:42: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/glm/detail'
+2018-10-19 17:55:42: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/glm/ext'
+2018-10-19 17:55:43: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/glm/gtc'
+2018-10-19 17:55:43: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/glm/gtx'
+2018-10-19 17:55:43: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/glm/simd'
+2018-10-19 17:55:43: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/imgui'
+2018-10-19 17:55:44: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/objLoader'
+2018-10-19 17:55:44: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/src/vendor/stb_image'
+2018-10-19 17:55:44: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/x64'
+2018-10-19 17:55:44: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/x64/Debug'
+2018-10-19 17:55:44: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/OpenGL/x64/Debug/OpenGL.tlog'
+2018-10-19 17:55:45: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/x64'
+2018-10-19 17:55:45: Create Folder 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/x64/Debug'
+2018-10-19 17:55:49: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/.suo' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/.suo' (207 360)
+2018-10-19 18:15:20: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/Browse.VC.db' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/Browse.VC.db' (51 290 112)
+2018-10-19 18:52:57: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/10fa6e81aea9cb32/MAIN.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/10fa6e81aea9cb32/MAIN.ipch' (100 728 832)
+2018-10-19 19:23:10: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/40921f2d6558ddf0/CHUNKMESHBUILDER.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/40921f2d6558ddf0/CHUNKMESHBUILDER.ipch' (92 864 512)
+2018-10-19 19:52:56: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/521676ba73c965ea/MESH.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/521676ba73c965ea/MESH.ipch' (92 405 760)
+2018-10-19 20:03:04: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/545bcc041dea24f/INPUT.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/545bcc041dea24f/INPUT.ipch' (31 850 496)
+2018-10-19 20:03:11: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/5bf40f5b95c889eb/VERTEXARRAY.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/5bf40f5b95c889eb/VERTEXARRAY.ipch' (327 680)
+2018-10-19 20:14:33: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/5e2d58e1ffb672f2/MAIN.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/5e2d58e1ffb672f2/MAIN.ipch' (36 044 800)
+2018-10-19 20:16:40: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/6138ca670780df5d/IMGUI.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/6138ca670780df5d/IMGUI.ipch' (6 488 064)
+2018-10-19 20:19:03: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/61b4db626bc608cd/IMGUI_WIDGETS.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/61b4db626bc608cd/IMGUI_WIDGETS.ipch' (6 488 064)
+2018-10-19 20:28:24: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/649696794aeddaf7/MAIN.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/649696794aeddaf7/MAIN.ipch' (27 918 336)
+2018-10-19 21:00:06: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/711e0a734857a268/SHADER.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/711e0a734857a268/SHADER.ipch' (96 206 848)
+2018-10-19 21:02:07: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/8e9b119e692e367d/IMGUI.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/8e9b119e692e367d/IMGUI.ipch' (6 422 528)
+2018-10-19 21:02:14: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/9604aa43e47996d9/TESTCLEARCOLOR.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/9604aa43e47996d9/TESTCLEARCOLOR.ipch' (327 680)
+2018-10-19 21:33:37: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/a3a4adeb921a1ffb/WORLD.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/a3a4adeb921a1ffb/WORLD.ipch' (92 864 512)
+2018-10-19 21:38:00: Stop requested by Stop By User: #1
+2018-10-19 21:38:04: Copy New 'E:/documents-datadrive/Server_Cegep(Synchronized)/Personnal_Projects/Test_Game/.vs/OpenGL/v15/ipch/AutoPCH/a95273f3764cce58/BLOCK.ipch' -> 'https://mesfichiers.cegep-lanaudiere.qc.ca/htcomnet/hcwebdav/Mon espace/PERSONAL_PROJECTS/.vs/OpenGL/v15/ipch/AutoPCH/a95273f3764cce58/BLOCK.ipch' (92 405 760)
+- ERROR: Error copying file: stopped by Stop By User
+2018-10-19 21:38:06: stopped by Stop By User
+2018-10-19 21:38:06: 

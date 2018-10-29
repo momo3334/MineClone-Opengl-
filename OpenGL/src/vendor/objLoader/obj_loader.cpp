@@ -76,6 +76,8 @@ void IndexedModel::CalcNormals()
 		normals[i] = glm::normalize(normals[i]);
 }
 
+
+
 IndexedModel OBJModel::ToIndexedModel()
 {
 	IndexedModel result;

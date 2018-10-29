@@ -25,7 +25,7 @@ void Renderer::Init()
 	m_Shader.SetUniform4f("u_Color", 0.8f, 0.3f, 0.8f, 1.0f);
 	m_Texture.CreateTexture("res/textures/sprite.png");
 	
-	toRender.push_back(new Mesh(m_Shader, m_Texture));
+	//toRender.push_back(new Mesh(m_Shader, m_Texture));
 
 	for (unsigned int x = 0; x < 5; x++)
 	{
@@ -38,8 +38,13 @@ void Renderer::Init()
 		}
 	}
 
+	World world = World (5,5,5);
 
+	std::vector<glm::vec4> chunkData = world.CreateWorld();
 
+	ChunkMeshBuilder chunkMesh(chunkData, m_Shader, m_Texture);
+
+	toRender.push_back(chunkMesh.BuildChunk());
 }
 
 void Renderer::Clear() const
@@ -58,11 +63,11 @@ void Renderer::Draw(glm::mat4 camera)
 {
 	for (int i = 0; i < toRender.size(); i++)
 	{
-		for (unsigned int j = 0; j < positions.size(); j++)
-		{
-			m_Transform.GetPos() =  positions.at(j);
+		//for (unsigned int j = 0; j < positions.size(); j++)
+		//{
+			//m_Transform.GetPos() =  positions.at(j);
 			pushTranformationMatrix(camera);
 			toRender.at(i)->Draw(m_Shader);
-		}
+		//}
 	}
 }

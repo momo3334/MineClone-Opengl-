@@ -12,7 +12,8 @@ class Mesh {
 public:
 
 
-	Mesh(Shader & shader,Texture & texture);
+	Mesh(Shader & shader, Texture & texture);
+	Mesh(Shader & shader, Texture & texture, std::vector<glm::vec3> m_Postitions, std::vector<glm::vec2> m_TexCoords, std::vector<glm::vec3> m_Normal, std::vector<unsigned int> indices);
 	~Mesh();
 
 

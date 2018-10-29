@@ -1,0 +1,5 @@
+﻿  ChunkMeshBuilder.cpp
+e:\documents-datadrive\server_cegep(synchronized)\personnal_projects\test_game\opengl\src\vertexbufferlayout.h(27): warning C4099: 'VertexBufferLayout' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+  e:\documents-datadrive\server_cegep(synchronized)\personnal_projects\test_game\opengl\src\vertexbufferlayout.h(26): note: voir la déclaration de 'VertexBufferLayout'
+e:\documents-datadrive\server_cegep(synchronized)\personnal_projects\test_game\opengl\src\chunkmeshbuilder.cpp(10): warning C4018: '<' : incompatibilité signed/unsigned
+  OpenGL.vcxproj -> E:\documents-datadrive\Server_Cegep(Synchronized)\Personnal_Projects\Test_Game\Debug\OpenGL.exe
